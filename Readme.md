@@ -43,7 +43,7 @@ model = Model(inputs=Input, outputs=hidden)
 - **input** and **output** should be definitely defined by ther hyperparemter **shape**
 
 
-refereced to https://jovianlin.io/keras-models-sequential-vs-functional/
+referenced to https://jovianlin.io/keras-models-sequential-vs-functional/
 
 
 
