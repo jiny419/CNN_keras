@@ -41,3 +41,6 @@ model = Model(inputs=Input, outputs=hidden)
 - Functional API can create multiple input or output models as well as models that share layers
 - Models defined by defining a **Model** that specifies the layers to act as the **input** and **output** to the model. 
 - **input** and **output** should be definitely defined by ther hyperparemter **shape**
+
+
+if you see the keras_cnn.ipynb, you can learn how to create deep-learning model by using sequential and functional API 
