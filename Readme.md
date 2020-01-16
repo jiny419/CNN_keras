@@ -43,4 +43,9 @@ model = Model(inputs=Input, outputs=hidden)
 - **input** and **output** should be definitely defined by ther hyperparemter **shape**
 
 
+refereced to https://jovianlin.io/keras-models-sequential-vs-functional/
+
+
+
+
 if you see the keras_cnn.ipynb, you can learn how to create deep-learning model by using sequential and functional API 
